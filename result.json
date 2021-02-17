@@ -1,0 +1,131 @@
+{
+  "profile": {
+    "industrySegment": [
+      "aerospace",
+      "airline",
+      "automobile",
+      "banking",
+      "creditUnion",
+      "consumerBrands",
+      "consumerPackagedGoods",
+      "insuranceAndDiversigiedFinancialServices",
+      "healthcareProvider",
+      "healthcareInsurer",
+      "insurance",
+      "manufacturingDiversified",
+      "manufacturingIndustrialGoods",
+      "manufacturingProcessOriented",
+      "manufacturingVehiclesAndEquipment",
+      "mediaAndEntertainment",
+      "pharmaceuticalsAndMedicalDevices",
+      "retailGeneral",
+      "retailGroceries",
+      "retailOnline",
+      "retailSpeciality",
+      "softwareAndTechnology",
+      "transportation",
+      "telecommunications",
+      "utilities",
+      "wealthManagement",
+      "otherAll"
+    ],
+    "role": [
+      "csuiteVP",
+      "directorGM",
+      "managerAdministratorSupervisor",
+      "nonManagement"
+    ],
+    "region": [
+      "us",
+      "canada",
+      "uk",
+      "eu",
+      "asiaPacific",
+      "ausNz",
+      "latinAmerica",
+      "africa",
+      "middleEast",
+      "other"
+    ]
+  },
+  "general": {
+    "question": "Rate your agreement with the following statements using \n                 the scale from 0 to 10 where 0 means \"Do not Agree at all\" \n                 and 10 means \"Completely Agree.\"",
+    "answers": [
+      "When it comes to data analytics, my company \n                              MUST maintain a competitive advantage over the \n                              competition.",
+      "When it comes to data analytics, my company \n                               DOES maintain a competitive advantage over the competition.",
+      "My company is demonstrating COMMITMENT to increase meaningful \n                              use and application of data analytics."
+    ]
+  },
+  "delta": {
+    "data": {
+      "question": "Which of the following best describes your enterprise's data characteristics?",
+      "answers": [
+        " Inconsistent, poor quality, and unstandardized data; difficult to do substantial analysis; no \n                       groups with strong data orientation; basic reporting tools and descriptive analytics.",
+        " Standardized and structured data, mostly in functional or process silos; senior\n                       executives don’t discuss data management; BI and basic analytics tools.",
+        " Key data domains identified and central data repositories created; expansion into\n                       unstructured NoSQL data",
+        " Integrated, accurate, common data in central repositories; data still mainly an IT\n                       matter; little unique data: use of unstructured NoSQL data analysis.",
+        " Relentless search for new data and metrics leveraging structured and unstructured data; \n                       organization separate from IT oversees information; data managed as strategic asset."
+      ]
+    },
+    "enterprise": {
+      "question": "Which of the following best describes your enterprise approach to analytics?",
+      "answers": [
+        " No enterprise perspective on data or analytics. Poorly integrated systems.",
+        " Islands of data, technology and expertise deliver local value",
+        " Process or business unit focus for analytics. Infrastructure for analytics beginning to \ncoalesce.",
+        " Key data, technology and analysts are managed from an enterprise perspective",
+        " Key analytical resources focused on enterprise priorities and differentiation"
+      ]
+    },
+    "leadership": {
+      "question": "Which of the following best describes your leadership leadership’s approach to \nanalytics?",
+      "answers": [
+        " Little awareness of or interest in analytics.",
+        " Local leaders emerge, but have little connection.",
+        " Senior leaders recognizing importance of analytical capabilities",
+        " Senior leaders developing analytical plans and building analytical capabilities.",
+        " Strong leaders behaving analytically and showing passion for analytical competition"
+      ]
+    },
+    "targets": {
+      "question": "Which of the following best describes your enterprise’s approach to aligning analytics \nto specific business objectives?",
+      "answers": [
+        " No targeting of opportunities.",
+        " Multiple disconnected targets, typically not of strategic importance.",
+        " Analytical efforts coalescing behind a small set of important targets.",
+        " Analytics centered on a few key business domains with explicit and ambitious outcomes",
+        " Analytics integral to the company’s distinctive capability and strategy"
+      ]
+    },
+    "analytics": {
+      "question": "Which of the following best describes your enterprise’s population of analytics \nprofessionals (analytsts, data scientists, etc.)?",
+      "answers": [
+        " Few skills, and those are attached to specific functions.",
+        " Disconnected pockets of analysts; unmanaged mix of skills.",
+        " Analysts recognized as key talent and focused on important business areas.",
+        " Highly capable analysts explicitly recruited, deployed and engaged.",
+        " World-class professional analysts; cultivation of analytical amateurs across the enterprise."
+      ]
+    },
+    "technology": {
+      "question": "Which of the following best describes your enterprise’s analytics technology?",
+      "answers": [
+        " Desktop technology, standard office packages, poorly integrated systems",
+        " Individual analytical initiatives, statistical packages, descriptive analytics, database \nquerying, tabulations",
+        " Enterprise analytical plan, tool and platforms; predictive analytical packages",
+        " Enterprise analytical plan and process, cloud-based big data",
+        " Sophisticated enterprise-wide big data and analytics architecture, cognitive technologies, \nprescriptive and autonomous analytics"
+      ]
+    },
+    "techniques": {
+      "question": "Which of the following best describes the analytical techniques that your enterprise \ncan deploy into production use cases?",
+      "answers": [
+        " Mostly ad hoc, simple math, extrapolation, trending.",
+        " Basic statistics, segmentation, database querying, tabulations of key metrics are leveraged to \ngain insights.",
+        " Simple predictive analytics, classifications and clustering; dynamic forecasts.",
+        " Advanced predictive methods deployed to discover insights; advanced optimization, sentiment \nanalytics, text and image analytics.",
+        " Neural nets and deep learning, genetic algorithms, advanced machine learning."
+      ]
+    }
+  }
+}
